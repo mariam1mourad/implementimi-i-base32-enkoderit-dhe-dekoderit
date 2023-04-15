@@ -14,4 +14,7 @@ alphabet = "abcdefghijklmnopqrstuvwxyz"
 encoded_alphabet = base32_encode(alphabet)
 print(encoded_alphabet)  
 
+decoded_alphabet=base32_decode(encoded_alphabet)
+print(encoded_alphabet)
+
 
