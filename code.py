@@ -10,11 +10,11 @@ def base32_encode(data):
         data = data.encode()
     return base64.b32decode(data).decode()
 
-alphabet = "abcdefghijklmnopqrstuvwxyz"
-encoded_alphabet = base32_encode(alphabet)
-print(encoded_alphabet)  
+text = "abcdefghijklmnopqrstuvwxyz"
+encoded_text = base32_encode(text)
+print('Encoded text:',encoded_text)    
 
-decoded_alphabet=base32_decode(encoded_alphabet)
-print(encoded_alphabet)
+decoded_text = base32_decode(encoded_text)
+print('Decoded text:', decoded_text )
 
 
