@@ -10,6 +10,7 @@ def base32_encode(data):
         data = data.encode()
     return base64.b32decode(data).decode()
 
+print('--------------------Encoded & Decoded text--------------------')
 text = "abcdefghijklmnopqrstuvwxyz"
 encoded_text = base32_encode(text)
 print('Encoded text:',encoded_text)    
