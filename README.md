@@ -3,7 +3,7 @@ This is a project given by University of Pristina professor. We have combined so
 
 # Usage
 In this project is implemented “Base32 encoder and decoder”.
-In Python there are not any requirements except that u need to have python configured in your device and some of the libraries needed for the file to run.
+In Python there are not any requirements except that u need to have Python configured in your device and some of the libraries needed for the file to run.
 
 # Language
 We have used programming language Python.
