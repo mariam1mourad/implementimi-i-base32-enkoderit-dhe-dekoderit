@@ -13,4 +13,4 @@ This code is open source which people implemented before but we just managed to 
 * Olsa Fejzullahu
 * Mariam Mourad
 * Marigona Hamiti
-* Medina Shaban
+* Medina Shabani
