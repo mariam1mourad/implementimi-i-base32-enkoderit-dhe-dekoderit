@@ -2,8 +2,8 @@
 
 Grupi 28
 Anetaret e grupit:
-Olsa Fejzullahu
-Mariam Mourad
-Marigona Hamiti
+Olsa Fejzullahu,
+Mariam Mourad,
+Marigona Hamiti,
 Medina Shabani
 
